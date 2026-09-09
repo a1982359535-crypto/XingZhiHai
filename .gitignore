@@ -1,0 +1,5 @@
+# 公开仓库只放最新的发布压缩包与版本文件
+*
+!.gitignore
+!version.json
+!星之海-beta11.zip
